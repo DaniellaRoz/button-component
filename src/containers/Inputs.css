@@ -22,3 +22,40 @@ div p {
 footer {
     margin-top: 52px;
 }
+
+br {
+    line-height: 40px;
+}
+
+#icon-source {
+    font-family: 'Ubundu Mono', monospace;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    color: #828282;
+}
+
+#icon-source a:visited {
+    color: #828282;
+}
+
+#icon-source a:hover {
+    color: #090F31;
+}
+
+#creator {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #A9A9A9;
+}
+
+#creator a:visited {
+    font-weight: 700;
+    color: #A9A9A9;
+}
+
+#creator a:hover {
+    color: #090F31;
+}

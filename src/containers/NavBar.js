@@ -9,8 +9,8 @@ function NavBar( {id} ) {
                 <li>Colors</li>
                 <li>Typography</li>
                 <li>Spaces</li>
-                <li>Buttons</li>
-                <li><strong>Inputs</strong></li>
+                <li><strong>Buttons</strong></li>
+                <li>Inputs</li>
                 <li>Grid</li>
             </ul>
         </div>
