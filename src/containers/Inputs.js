@@ -91,7 +91,7 @@ function Inputs({ id }) {
         
             <footer>
                 <p id="icon-source">Icons: <a href="https://material.io/resources/icons/?style=round" target="_blank" >https://material.io/resources/icons/?style=round</a></p>
-                <p id="creator">created by <a href="https://github.com/DaniellaRoz" target="_blank" >username</a> - devChallenges.io</p>
+                <p id="creator">created by <a href="https://github.com/DaniellaRoz" target="_blank" >DaniellaRoz</a> - devChallenges.io</p>
             </footer>
         </main>
     );
